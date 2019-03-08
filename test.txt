@@ -1,2 +1,4 @@
 test gitignore
 second
+commit test
+commit reset HEAD~ test
